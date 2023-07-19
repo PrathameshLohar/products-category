@@ -1,0 +1,9 @@
+{
+    "productId": "P003",
+    "productName": "Sample Produc3",
+    "qtyPerUnit": 10,
+    "unitPrice": 19.99,
+    "unitInStock": 100,
+    "discontinued": false,
+    "categoryId": "64b76f091aa877a39574a582"
+}
